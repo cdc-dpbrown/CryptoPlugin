@@ -1,0 +1,5 @@
+C:\_CODE\cryptoPlugin\CryptoPlugin\bin\Debug\FipsCrypto.dll
+C:\_CODE\cryptoPlugin\CryptoPlugin\bin\Debug\FipsCrypto.pdb
+C:\_CODE\cryptoPlugin\CryptoPlugin\obj\Debug\CryptoPlugin.csprojResolveAssemblyReference.cache
+C:\_CODE\cryptoPlugin\CryptoPlugin\obj\Debug\FipsCrypto.dll
+C:\_CODE\cryptoPlugin\CryptoPlugin\obj\Debug\FipsCrypto.pdb
